@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "995017210201",
+    "firebase_url": "https://inkart-c0e49-default-rtdb.firebaseio.com",
+    "project_id": "inkart-c0e49",
+    "storage_bucket": "inkart-c0e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995017210201:android:e6f7119c9080737782f448",
+        "android_client_info": {
+          "package_name": "com.inkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995017210201-e44tprqjulj6thmvqf5jh46gndumm478.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Pi96kULPpXHRC-4AtcWr8DngT8RByxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995017210201-e44tprqjulj6thmvqf5jh46gndumm478.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995017210201:android:ecfa7f117b15450b82f448",
+        "android_client_info": {
+          "package_name": "com.inkartjazapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995017210201-lbasbuk6f8lelk8qu99d5dajb7be9ug6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inkartjazapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "995017210201-e44tprqjulj6thmvqf5jh46gndumm478.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Pi96kULPpXHRC-4AtcWr8DngT8RByxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995017210201-e44tprqjulj6thmvqf5jh46gndumm478.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
